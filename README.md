@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm from Biratnagar, Nepal<br><br>- 🔭 I’m working as ReactJS Developer<br>- 📚 I'm currently learning Next Js<br>- 📫 How to reach me **snilima181@gmail.com**
+I'm from Biratnagar, Nepal<br><br>- 🔭 I’m working as ReactJS Developer<br>- 📚 I'm currently learning Node Js<br>- 📫 How to reach me **snilima181@gmail.com**
 
 
 # 💻 Tech Stack:
